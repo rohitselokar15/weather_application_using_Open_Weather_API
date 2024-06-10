@@ -77,3 +77,8 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+![image](https://github.com/rohitselokar15/weather_application_using_Open_Weather_API/assets/125687552/d6c229d1-73a9-406f-9a26-3c35af6269d8)
+![image](https://github.com/rohitselokar15/weather_application_using_Open_Weather_API/assets/125687552/9117e648-087d-4726-a841-bb35c924075e)
+
+
